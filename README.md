@@ -1,6 +1,11 @@
 # Projet Sciences de l'Ingénieur TechRover / Engeneering Sciences Tech Rover Project
 (Disponible en Français et en Anglais / Available in French and English)
 ---
+
+Le projet à commencé ! Le schéma électrique à déjà été publié, et le code source de l'Arduino sera publié sous peu ! La version 1.0.0 du projet sera disponible le 16 Décembre au plus tard !
+The project has begun ! The electrical scheme has already been published and the source code for the bord will be published soon ! The 1.0.0 version of the project will be available on December 16th ! Stay tuned ! 
+
+---
 🇫🇷
 
 Bienvenue dans l’aventure Tech Rover !
@@ -22,7 +27,6 @@ Le repo sera organisé en dossiers selon le type de fichier qu'il s'y trouve :
 
 > Dernière mise à jour officielle
 
-Pour le moment le projet n'est pas encore commencé. Vous serez avertis dès qu'il le sera.
 
 ---
 🇬🇧
@@ -46,4 +50,4 @@ The repository will be organized into folders according to the type of file it c
 
 > Latest official update
 
-The project has not yet started. You will be notified as soon as it does.
+
