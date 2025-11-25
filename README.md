@@ -3,6 +3,7 @@
 ---
 
 Le projet à commencé ! Le schéma électrique à déjà été publié, et le code source de l'Arduino sera publié sous peu ! La version 1.0.0 du projet sera disponible le 16 Décembre au plus tard !
+
 The project has begun ! The electrical scheme has already been published and the source code for the bord will be published soon ! The 1.0.0 version of the project will be available on December 16th ! Stay tuned ! 
 
 ---
